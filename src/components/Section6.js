@@ -63,7 +63,7 @@ const Section6 = () => {
                   id="w-node-b7e2aa59-8b28-5836-00f6-d5cacd3571fe-e4138a10"
                   class="w-layout-grid rl_footer4_social-list"
                 >
-                  <a rel='nofollow' href='https://www.weddingwire.in'><img alt='wedding' title='Wedding' src='https://www.weddingwire.in/images/sellos/partner--pp466860.png' style={{borderWidth: "0px;"}} /></a>
+                  <a rel='nofollow' href='https://www.wedmegood.com/profile/Goa-Destination-Weddings-24677445'><img alt='wedding' title='Wedding' src='https://cloud.appwrite.io/v1/storage/buckets/6620f76347a6c75a350d/files/66542e7600327761a2ae/view?project=661d51c7e4d47fa7d45d&mode=admin' style={{borderWidth: "0px;"}} /></a>
                
                 </div>
               </div>
