@@ -48,7 +48,7 @@ const Section6 = () => {
                   <a href="#gallery" class="rl_footer4_link">
                     Gallery
                   </a>
-                  <a href="about-us" class="rl_footer4_link">
+                  <a href="#about-us" class="rl_footer4_link">
                     About us
                   </a>
                   <a
