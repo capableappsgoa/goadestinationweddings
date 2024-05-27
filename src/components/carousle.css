@@ -1,0 +1,79 @@
+.responsiveCarousleWrapper {
+  margin-top: 70px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: aqua; */
+}
+.responsiveCarousleWrapperChildren {
+  width: 95%;
+  height: 100%;
+  /* background-color: rgb(211, 192, 25); */
+}
+
+/* @media screen and (min-width: 1920px){
+    .responsiveCarousleWrapperChildren{
+        width: 95%;
+        height: 100%;
+
+     }
+}
+ */
+
+@media screen and (max-width: 478px) {
+  .responsiveCarousleWrapper {
+    min-height: 170px;
+  }
+  .responsiveCarousleWrapperChildren {
+    width: 95%;
+    height: 100%;
+    margin-bottom: 0px !important;
+    /* background-color: rgb(211, 192, 25); */
+  }
+}
+@media screen and (max-width: 600px) {
+  .responsiveCarousleWrapper {
+    min-height: 170px;
+  }
+  .responsiveCarousleWrapperChildren {
+    height: 65%;
+    height: 100%;
+    margin-bottom: 0px;
+    /* background-color: rgb(211, 192, 25); */
+  }
+}
+@media screen and (min-width: 728px) {
+  .responsiveCarousleWrapper {
+    /* background-color: black; */
+    min-height: 170px;
+  }
+  .responsiveCarousleWrapperChildren {
+    width: 728px;
+    height: 65%;
+    margin-bottom: 0px !important;
+  }
+}
+@media screen and (min-width: 991px) {
+  .responsiveCarousleWrapperChildren {
+    min-width: 940px;
+    height: 100%;
+    margin-bottom: 0px !important;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .responsiveCarousleWrapperChildren {
+    min-width: 1160px;
+    height: 100%;
+  }
+}
+@media screen and (width > 1440px) {
+  .responsiveCarousleWrapper {
+    height: 260px;
+  }
+  .responsiveCarousleWrapperChildren {
+    min-width: 1290px;
+    height: 100%;
+    /* background-color: aqua; */
+  }
+}
