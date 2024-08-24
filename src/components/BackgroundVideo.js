@@ -24,9 +24,11 @@ const BackgroundVideo = () => {
       </video>
       {/* <div className="gradient"></div> */}
       <div class="content">
-        <h1>Love Blooms in Goa</h1>
-        <p>Best event wedding planners</p>
-        <a href="https://wa.me/+919823291463">Get Quote</a>
+        <h1>Goa destination Weddings</h1>
+        <p className="powered">Powered By <a href="https://www.casantevents.com/" className="" height={50}>
+        <img  height={50} src="https://i.ibb.co/gDzyhvq/powered-by-casant.png" alt=""/>
+        </a> </p> 
+        <a className="whatsapp" href="https://wa.me/+919823291463">Get Quote</a>
       </div>
     </div>
   );
