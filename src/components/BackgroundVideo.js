@@ -26,7 +26,7 @@ const BackgroundVideo = () => {
       <div class="content">
         <h1>Goa destination Weddings</h1>
         <p className="powered">Powered By <a href="https://www.casantevents.com/" className="" height={50}>
-        <img className="image_powered" height={50} src="https://i.ibb.co/gDzyhvq/powered-by-casant.png" alt=""/>
+        <img className="image_powered" height={50} src="https://i.ibb.co/vsC2fTQ/powered-by-casant.png" alt=""/>
         </a> </p> 
         <a className="whatsapp" href="https://wa.me/+919823291463">Get Quote</a>
       </div>
